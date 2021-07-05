@@ -31,7 +31,7 @@ COLOR CODES
     margin: -75px 0 0 -75px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #3498db;
+    border-top-color: #c79c60;
 
     -webkit-animation: spin 2s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
     animation: spin 2s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
@@ -166,7 +166,7 @@ ul {
   vertical-align: bottom;
 }
 .tm-site-name {
-  color: blue;
+  color: #c79c60;
   display: inline-block;
   font-size: 32px;
   margin: 0 10px;  
@@ -198,7 +198,7 @@ ul {
 .tm-nav li a:hover,
  .tm-nav li a:focus,
  .tm-nav li a.active {  
-  color: blue;
+  color: #c79c60;
   text-decoration: none;
 }
 .tm-nav li a.active {
@@ -229,7 +229,7 @@ ul {
 }
 .white-text { color: white; }
 .blue-text { color: #0066CC; }
-.gold-text { color: #1e1196; }
+.gold-text { color: #c79c60; }
 .gray-text { color: #949494; }
 .green-text { color: #30A430; }
 .tm-welcome-header { font-size: 56px; }
@@ -323,7 +323,7 @@ ul {
 .tm-footer-nav li { padding: 15px 0 0 0; }
 .tm-footer-nav li a { color: white; }
 .tm-footer-nav li a:hover {
-  color: #0c0050;
+  color: #c79c60;
   text-decoration: none;
 }
 .margin-bottom-30 { margin-bottom: 30px; }
@@ -351,7 +351,7 @@ ul {
 .tm-social-icon:last-child { margin-right: 0; }
 .tm-social-icon:hover,
 .tm-social-icon:focus {
-  background-color: #150452;
+  background-color: #c79c60;
   color: white;
 }
 .tm-social-icons-container { margin-top: 25px; }
@@ -508,7 +508,7 @@ ol li { display: block }
 ol li:before { 
   content: counter(item) ". "; 
   counter-increment: item;
-  color: #180a68; 
+  color: #c79c60; 
   font-weight: 700;
 }
 .tm-section-header-container {
@@ -527,7 +527,7 @@ ol li:before {
   width: 100%;
   height: 41px;
 }
-.tm-hr { border-color: blue; }
+.tm-hr { border-color: #c79c60; }
 .tm-daily-menu-container { overflow: hidden; }
 
 /* Menu */
@@ -547,7 +547,7 @@ ol li:before {
 }
 .tm-side-menu li { list-style: none; }
 .tm-side-menu li a {
-  color: #110b44;
+  color: #c79c60;
   padding: 7px;
   display: block;
   -webkit-transition: all 0.3s ease;
@@ -555,7 +555,7 @@ ol li:before {
 }
 .tm-side-menu li a:hover,
 .tm-side-menu li a.active {
-  color: blue;
+  color: #c79c60;
   text-decoration: none;
 }
 .tm-product {
@@ -688,7 +688,7 @@ button.tm-more-button {
   .mobile-menu-icon {
     display: block;
     cursor: pointer;
-    color: #1c0c64;
+    color: #c79c60;
     font-size: 30px;
     position: fixed;
     top: 15px;
